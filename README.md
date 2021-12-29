@@ -1,4 +1,4 @@
-# GameJam
+# [GameJam] Hell's Nightmare
  All designs in the game belong to us, also in the game; sounds, codes, story, effects etc. It belongs to us and was made with particular care within 72 hours.
 (Designs inspired by realistic objects)<br>
 https://crazogi.itch.io/hells-nightmare
